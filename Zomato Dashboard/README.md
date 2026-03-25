@@ -4,8 +4,8 @@
 This **interactive dashboard** provides a comprehensive view of Zomato’s city‑wise performance, user behavior, and sales trends. Built with **Power BI**, it helps business stakeholders monitor growth, identify top cities, analyze menu preferences, and track user acquisition.
 
 ![Dashboard Preview](image.png)  
-![Dashboard Preview](image1.png) 
-![Dashboard Preview](image2.png) 
+![User Performance](image1.png) 
+![City Performance](image2.png) 
 *(Replace with actual screenshot)*
 
 ---
